@@ -1,6 +1,6 @@
 # Python Quiz Game
 
-A simple Python-based quiz game that tests your general knowledge with true/false questions.
+A simple Python-based quiz game that tests your general knowledge with true/false questions. This project is created as a practice exercise for learning object-oriented programming (OOP) concepts.
 
 ## Features
 - Uses a question bank from predefined data.
